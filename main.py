@@ -23,4 +23,4 @@ if __name__ == '__main__':
     test_list = [19, 32, 25, 5, 67, 23]
 
     print(findMaxIterative(test_list))
-    print(Max(test_list))
+    print(findMaxRecursive(test_list))
